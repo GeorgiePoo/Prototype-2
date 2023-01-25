@@ -761,10 +761,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 8250799015071150444, guid: c1f3076c91a9a4af48480e9da016633b, type: 3}
-      propertyPath: speed
-      value: 20
-      objectReference: {fileID: 0}
     - target: {fileID: 8250799015071276894, guid: c1f3076c91a9a4af48480e9da016633b, type: 3}
       propertyPath: m_Name
       value: Animal_Stag_02
@@ -826,10 +822,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Animal_Cow_White
       objectReference: {fileID: 0}
-    - target: {fileID: 8412591854250732926, guid: 6571cb9288fba4dc1a2cdde35a0f28a1, type: 3}
-      propertyPath: speed
-      value: 10
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6571cb9288fba4dc1a2cdde35a0f28a1, type: 3}
 --- !u!1001 &8550692114142363730
@@ -842,10 +834,6 @@ PrefabInstance:
     - target: {fileID: 8550692114140811891, guid: 45dd50a60163a4196ad1c083010c83c3, type: 3}
       propertyPath: m_Name
       value: Animal_Fox_01
-      objectReference: {fileID: 0}
-    - target: {fileID: 8550692114140831823, guid: 45dd50a60163a4196ad1c083010c83c3, type: 3}
-      propertyPath: speed
-      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 8550692114141256745, guid: 45dd50a60163a4196ad1c083010c83c3, type: 3}
       propertyPath: m_RootOrder
